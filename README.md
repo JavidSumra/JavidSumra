@@ -6,13 +6,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=javidsumra&label=Profile%20views&color=0e75b6&style=flat" alt="javidsumra" /> </p>
 
-- 🔭 I’m currently working on **SLMS System**
+- 🔭 I’m currently working on **Smarter Task**
 
-- 🌱 I’m currently learning **Java,React js**
+- 🌱 I’m currently learning **Python,Java,React js**
 
 - 🤝 I’m looking for help with **SLMS System**
 
-- 💬 Ask me about **HTML,CSS,JS,C,C++**
+- 💬 Ask me about **HTML,CSS,JS,C,C++,Node Js**
 
 - 📫 How to reach me **javidsumra135@gmail.com**
 
@@ -23,7 +23,7 @@
  <a href="javidsumra135@gmail.com" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/646/646094.png" alt="JavidSumra" height="40" width="40" />
  </a>
 </p>
-
+<h3><a href="https://javidsumra.github.io/Portfolio/Main.html">Portfolio</a></h3>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   
