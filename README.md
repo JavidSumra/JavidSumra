@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **[Chat Wave](https://github.com/JavidSumra/ChatWave)**
 
-- 🌱 I’m currently learning **Python,Java,React js**
+- 🌱 I’m currently learning **Python,Java,NextJS**
 
 - 🤝 I’m looking for help with **SLMS System**
 
-- 💬 Ask me about **HTML,CSS,JS,C,C++,Node Js**
+- 💬 Ask me about **HTML,CSS,JS,C,C++,Node JavaScript,TypeScript,ReactJs,Jest,ExpressJS,TailwindCSS,MongoDB,PostgreSQL**
 
 - 📫 How to reach me **javidsumra135@gmail.com**
 
