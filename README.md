@@ -5,7 +5,7 @@
 </div>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=javidsumra&label=Profile%20views&color=0e75b6&style=flat" alt="javidsumra" /> </p>
 
-- 🔭 I’m currently working on **Smarter Task**
+- 🔭 I’m currently working on **[Chat Wave](https://github.com/JavidSumra/ChatWave)**
 
 - 🌱 I’m currently learning **Python,Java,React js**
 
